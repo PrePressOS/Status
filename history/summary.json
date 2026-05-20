@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/prepressos.com.ico",
     "slug": "pre-press-os-app",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "95.98%",
+    "uptimeDay": "50.63%",
+    "uptimeWeek": "92.95%",
+    "uptimeMonth": "95.98%",
+    "uptimeYear": "95.98%",
     "time": 434,
     "timeDay": 425,
-    "timeWeek": 429,
+    "timeWeek": 427,
     "timeMonth": 434,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2026-05-19": 1,
+      "2026-05-20": 638,
+      "2026-05-19": 73,
       "2026-05-08": 1,
       "2026-05-07": 8
     }
@@ -27,16 +28,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/prepressos.com.ico",
     "slug": "pre-press-os-landing",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.04%",
+    "uptimeDay": "50.68%",
+    "uptimeWeek": "92.95%",
+    "uptimeMonth": "96.04%",
+    "uptimeYear": "96.04%",
     "time": 575,
     "timeDay": 715,
-    "timeWeek": 594,
+    "timeWeek": 590,
     "timeMonth": 575,
     "timeYear": 575,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-20": 638,
+      "2026-05-19": 72
+    }
   }
 ]
